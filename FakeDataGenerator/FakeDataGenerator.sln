@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33927.249
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakeDataGenerator", "FakeDataGenerator\FakeDataGenerator.csproj", "{1C0D576F-13BC-49FC-B2D6-AF32391CAE04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakeDataGenerator", "src\FakeDataGenerator\FakeDataGenerator.csproj", "{1C0D576F-13BC-49FC-B2D6-AF32391CAE04}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEX.EDGE.VAMS.AutoIntegrate.InterfaceService.RepairOrderLibrary", "WEX.EDGE.VAMS.AutoIntegrate.InterfaceService.RepairOrderLibrary\WEX.EDGE.VAMS.AutoIntegrate.InterfaceService.RepairOrderLibrary.csproj", "{1AC7A410-0C80-4894-AA65-BF6EFF4BB4D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEX.EDGE.VAMS.AutoIntegrate.InterfaceService.RepairOrderLibrary", "src\WEX.EDGE.VAMS.AutoIntegrate.InterfaceService.RepairOrderLibrary\WEX.EDGE.VAMS.AutoIntegrate.InterfaceService.RepairOrderLibrary.csproj", "{1AC7A410-0C80-4894-AA65-BF6EFF4BB4D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
